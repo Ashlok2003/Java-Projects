@@ -1,6 +1,6 @@
-# Java-Swings-Projects
+# Java-Projects
 
-Implementing Java Swing Knowledge with some amazing projects.
+Implementing Java Knowledge with some amazing projects.
 
         / \__                __/ \ 
       (    @\___         ___/@    )
